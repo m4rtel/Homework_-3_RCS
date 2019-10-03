@@ -42,6 +42,8 @@ function generateDivs(selectedID) {
   }
 }
 
+            
+
 generateDivs("main-body");
 
 function updateGenerator() {
