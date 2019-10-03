@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+  }
+html {
+    background-color: rgba(58, 232, 255, 0.445);
+    box-sizing: border-box;
+}
+div {
+    display: inline-block;
+    box-sizing: border-box;
+}
+.class-4 {
+    background-color: brown;
+    justify-content: center;
+    align-content: center;
+    height: 20%;
+    width: 20%;
+    border: 5px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+.class-3 {
+    background-color: blue;
+    justify-content: center;
+    align-content: center;
+    height: 20%;
+    width: 20%;
+    border: 5px ridge green;
+    padding: 50px;
+    margin: 20px;
+}
+.class-2 {
+    background-color: green;
+    justify-content: center;
+    align-content: center;
+    height: 20%;
+    width: 20%;
+    border: 5px dashed black;
+    padding: 50px;
+    margin: 20px;
+}
+.class-1 {
+    background-color: yellow;
+    justify-content: center;
+    align-content: center;
+    height: 20%;
+    width: 20%;
+    border: 5px double green;
+    padding: 50px;
+    margin: 20px;
+}
